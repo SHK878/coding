@@ -18,7 +18,7 @@ async function start() {
     //     page.waitForNavigation(),
     //     page.click(".wM6W7d")
     // ]);
-
+const s ="ss";
     await browser.close();
 }
 start()
